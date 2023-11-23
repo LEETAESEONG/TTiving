@@ -1,0 +1,2867 @@
+[
+    {
+        "model": "movies.MovieLocation",
+        "pk": 1,
+        "fields": {
+            "ID": "KCMPLPO22N000000001",
+            "POI_NM": "전주영화종합촬영소",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "전주시 완산구",
+            "LEGALDONG_NM": "상림동",
+            "LI_NM": null,
+            "LNBR_NO": "540",
+            "LC_LO": 127.0751019,
+            "LC_LA": 35.81471633
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 2,
+        "fields": {
+            "ID": "KCMPLPO22N000000002",
+            "POI_NM": "러브레터촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "횡성군",
+            "LEGALDONG_NM": "서원면",
+            "LI_NM": "유현리",
+            "LNBR_NO": "1050-1",
+            "LC_LO": 127.816191,
+            "LC_LA": 37.52764963
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 3,
+        "fields": {
+            "ID": "KCMPLPO22N000000003",
+            "POI_NM": "시월애촬영지",
+            "CTPRVN_NM": "인천광역시",
+            "SIGNGU_NM": "강화군",
+            "LEGALDONG_NM": "삼산면",
+            "LI_NM": "석모리",
+            "LNBR_NO": "산249-3",
+            "LC_LO": 126.29811,
+            "LC_LA": 37.70201189
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 4,
+        "fields": {
+            "ID": "KCMPLPO22N000000004",
+            "POI_NM": "청춘촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "하동군",
+            "LEGALDONG_NM": "악양면",
+            "LI_NM": "봉대리",
+            "LNBR_NO": "770-1",
+            "LC_LO": 127.6916199,
+            "LC_LA": 35.15214318
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 5,
+        "fields": {
+            "ID": "KCMPLPO22N000000005",
+            "POI_NM": "드라마영광의재인촬영지",
+            "CTPRVN_NM": "충청북도",
+            "SIGNGU_NM": "청주시 상당구",
+            "LEGALDONG_NM": "수동",
+            "LI_NM": null,
+            "LNBR_NO": "2-88",
+            "LC_LO": 127.4941645,
+            "LC_LA": 36.64614651
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 6,
+        "fields": {
+            "ID": "KCMPLPO22N000000006",
+            "POI_NM": "슬픈연가세트장",
+            "CTPRVN_NM": "인천광역시",
+            "SIGNGU_NM": "옹진군",
+            "LEGALDONG_NM": "북도면",
+            "LI_NM": "시도리",
+            "LNBR_NO": "44937",
+            "LC_LO": 126.4393719,
+            "LC_LA": 37.54517939
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 7,
+        "fields": {
+            "ID": "KCMPLPO22N000000007",
+            "POI_NM": "신데렐라언니촬영지",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "포천시",
+            "LEGALDONG_NM": "영북면",
+            "LI_NM": "산정리",
+            "LNBR_NO": "291-4",
+            "LC_LO": 127.320871,
+            "LC_LA": 38.07511009
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 8,
+        "fields": {
+            "ID": "KCMPLPO22N000000008",
+            "POI_NM": "혜원의집",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "군위군",
+            "LEGALDONG_NM": "우보면",
+            "LI_NM": "미성리",
+            "LNBR_NO": "927-2",
+            "LC_LO": 128.6645997,
+            "LC_LA": 36.17982938
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 9,
+        "fields": {
+            "ID": "KCMPLPO22N000000009",
+            "POI_NM": "낭만닥터김사부촬영지",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "포천시",
+            "LEGALDONG_NM": "영북면",
+            "LI_NM": "산정리",
+            "LNBR_NO": "204-1",
+            "LC_LO": 127.3234123,
+            "LC_LA": 38.07184681
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 10,
+        "fields": {
+            "ID": "KCMPLPO22N000000010",
+            "POI_NM": "기생충포토존",
+            "CTPRVN_NM": "서울특별시",
+            "SIGNGU_NM": "종로구",
+            "LEGALDONG_NM": "부암동",
+            "LI_NM": null,
+            "LNBR_NO": "222",
+            "LC_LO": 126.9640983,
+            "LC_LA": 37.59332931
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 11,
+        "fields": {
+            "ID": "KCMPLPO22N000000011",
+            "POI_NM": "명성황후촬영지",
+            "CTPRVN_NM": "서울특별시",
+            "SIGNGU_NM": "종로구",
+            "LEGALDONG_NM": "세종로",
+            "LI_NM": null,
+            "LNBR_NO": "44927",
+            "LC_LO": 126.9765867,
+            "LC_LA": 37.58101802
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 12,
+        "fields": {
+            "ID": "KCMPLPO22N000000012",
+            "POI_NM": "봄날은간다촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "정선군",
+            "LEGALDONG_NM": "여량면",
+            "LI_NM": "여량리",
+            "LNBR_NO": "770",
+            "LC_LO": 128.72278,
+            "LC_LA": 37.47724632
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 13,
+        "fields": {
+            "ID": "KCMPLPO22N000000013",
+            "POI_NM": "불멸의이순신촬영지",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "부안군",
+            "LEGALDONG_NM": "변산면",
+            "LI_NM": "격포리",
+            "LNBR_NO": "642",
+            "LC_LO": 126.4654121,
+            "LC_LA": 35.60968797
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 14,
+        "fields": {
+            "ID": "KCMPLPO22N000000014",
+            "POI_NM": "파이란촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "고성군",
+            "LEGALDONG_NM": "현내면",
+            "LI_NM": "초도리",
+            "LNBR_NO": "321",
+            "LC_LO": 128.4281709,
+            "LC_LA": 38.48551717
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 15,
+        "fields": {
+            "ID": "KCMPLPO22N000000015",
+            "POI_NM": "태왕사신기촬영지",
+            "CTPRVN_NM": "충청남도",
+            "SIGNGU_NM": "태안군",
+            "LEGALDONG_NM": "고남면",
+            "LI_NM": "누동리",
+            "LNBR_NO": "산6-514",
+            "LC_LO": 126.3936856,
+            "LC_LA": 36.45375918
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 16,
+        "fields": {
+            "ID": "KCMPLPO22N000000016",
+            "POI_NM": "수통대장금촬영지",
+            "CTPRVN_NM": "충청남도",
+            "SIGNGU_NM": "금산군",
+            "LEGALDONG_NM": "부리면",
+            "LI_NM": "수통리",
+            "LNBR_NO": "285-2",
+            "LC_LO": 127.5941376,
+            "LC_LA": 36.06202439
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 17,
+        "fields": {
+            "ID": "KCMPLPO22N000000017",
+            "POI_NM": "신의촬영지",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "구리시",
+            "LEGALDONG_NM": "아천동",
+            "LI_NM": null,
+            "LNBR_NO": "316-47",
+            "LC_LO": 127.1109619,
+            "LC_LA": 37.56074123
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 18,
+        "fields": {
+            "ID": "KCMPLPO22N000000018",
+            "POI_NM": "여친소촬영장소",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "평창군",
+            "LEGALDONG_NM": "대관령면",
+            "LI_NM": "횡계리",
+            "LNBR_NO": "704-5",
+            "LC_LO": 128.7251176,
+            "LC_LA": 37.74699103
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 19,
+        "fields": {
+            "ID": "KCMPLPO22N000000019",
+            "POI_NM": "건축학개론촬영지",
+            "CTPRVN_NM": "제주특별자치도",
+            "SIGNGU_NM": "서귀포시",
+            "LEGALDONG_NM": "남원읍",
+            "LI_NM": "위미리",
+            "LNBR_NO": "2975",
+            "LC_LO": 126.6555925,
+            "LC_LA": 33.26941811
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 20,
+        "fields": {
+            "ID": "KCMPLPO22N000000020",
+            "POI_NM": "연개소문촬영지",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "문경시",
+            "LEGALDONG_NM": "가은읍",
+            "LI_NM": "왕능리",
+            "LNBR_NO": "453-1",
+            "LC_LO": 128.0669966,
+            "LC_LA": 36.65537602
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 21,
+        "fields": {
+            "ID": "KCMPLPO22N000000021",
+            "POI_NM": "러빙유촬영지",
+            "CTPRVN_NM": "제주특별자치도",
+            "SIGNGU_NM": "서귀포시",
+            "LEGALDONG_NM": "안덕면",
+            "LI_NM": "동광리",
+            "LNBR_NO": "산90",
+            "LC_LO": 126.3291486,
+            "LC_LA": 33.32874856
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 22,
+        "fields": {
+            "ID": "KCMPLPO22N000000022",
+            "POI_NM": "그대그리고나촬영지",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "영덕군",
+            "LEGALDONG_NM": "강구면",
+            "LI_NM": "오포리",
+            "LNBR_NO": "813",
+            "LC_LO": 129.3891758,
+            "LC_LA": 36.35801588
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 23,
+        "fields": {
+            "ID": "KCMPLPO22N000000023",
+            "POI_NM": "동감촬영장",
+            "CTPRVN_NM": "대구광역시",
+            "SIGNGU_NM": "남구",
+            "LEGALDONG_NM": "대명동",
+            "LI_NM": null,
+            "LNBR_NO": "11-39",
+            "LC_LO": 128.5808843,
+            "LC_LA": 35.8539195
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 24,
+        "fields": {
+            "ID": "KCMPLPO22N000000024",
+            "POI_NM": "모래시계촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "강릉시",
+            "LEGALDONG_NM": "강동면",
+            "LI_NM": "모전리",
+            "LNBR_NO": "산198",
+            "LC_LO": 128.9596499,
+            "LC_LA": 37.70642251
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 25,
+        "fields": {
+            "ID": "KCMPLPO22N000000025",
+            "POI_NM": "번지점프를하다촬영지",
+            "CTPRVN_NM": "충청남도",
+            "SIGNGU_NM": "태안군",
+            "LEGALDONG_NM": "근흥면",
+            "LI_NM": "정죽리",
+            "LNBR_NO": "산147-46",
+            "LC_LO": 126.154383,
+            "LC_LA": 36.69545328
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 26,
+        "fields": {
+            "ID": "KCMPLPO22N000000026",
+            "POI_NM": "용의눈물촬영장",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "영월군",
+            "LEGALDONG_NM": "영월읍",
+            "LI_NM": "방절리",
+            "LNBR_NO": "249",
+            "LC_LO": 128.4462491,
+            "LC_LA": 37.17806222
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 27,
+        "fields": {
+            "ID": "KCMPLPO22N000000027",
+            "POI_NM": "상도촬영지",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "상주시",
+            "LEGALDONG_NM": "중동면",
+            "LI_NM": "회상리",
+            "LNBR_NO": "782",
+            "LC_LO": 128.2636589,
+            "LC_LA": 36.44662817
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 28,
+        "fields": {
+            "ID": "KCMPLPO22N000000028",
+            "POI_NM": "신라의달밤촬영지",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "경주시",
+            "LEGALDONG_NM": "문무대왕면",
+            "LI_NM": "봉길리",
+            "LNBR_NO": "861",
+            "LC_LO": 129.4723635,
+            "LC_LA": 35.73096598
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 29,
+        "fields": {
+            "ID": "KCMPLPO22N000000029",
+            "POI_NM": "토지촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "하동군",
+            "LEGALDONG_NM": "악양면",
+            "LI_NM": "평사리",
+            "LNBR_NO": "482",
+            "LC_LO": 127.6877784,
+            "LC_LA": 35.15518934
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 30,
+        "fields": {
+            "ID": "KCMPLPO22N000000030",
+            "POI_NM": "궁드라마촬영지",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "경주시",
+            "LEGALDONG_NM": "인왕동",
+            "LI_NM": null,
+            "LNBR_NO": "506-1",
+            "LC_LO": 129.2264169,
+            "LC_LA": 35.83423354
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 31,
+        "fields": {
+            "ID": "KCMPLPO22N000000031",
+            "POI_NM": "편지촬영지",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "가평군",
+            "LEGALDONG_NM": "상면",
+            "LI_NM": "행현리",
+            "LNBR_NO": "산262",
+            "LC_LO": 127.3453343,
+            "LC_LA": 37.74240883
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 32,
+        "fields": {
+            "ID": "KCMPLPO22N000000032",
+            "POI_NM": "나주영상테마파크바람의나라세트장",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "나주시",
+            "LEGALDONG_NM": "공산면",
+            "LI_NM": "신곡리",
+            "LNBR_NO": "산2",
+            "LC_LO": 126.6000568,
+            "LC_LA": 34.98054522
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 33,
+        "fields": {
+            "ID": "KCMPLPO22N000000033",
+            "POI_NM": "천국의계단촬영지",
+            "CTPRVN_NM": "인천광역시",
+            "SIGNGU_NM": "중구",
+            "LEGALDONG_NM": "무의동",
+            "LI_NM": null,
+            "LNBR_NO": "산189",
+            "LC_LO": 126.4113669,
+            "LC_LA": 37.38531801
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 34,
+        "fields": {
+            "ID": "KCMPLPO22N000000034",
+            "POI_NM": "태극기휘날리며촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "평창군",
+            "LEGALDONG_NM": "대관령면",
+            "LI_NM": "횡계리",
+            "LNBR_NO": "704-5",
+            "LC_LO": 128.7254287,
+            "LC_LA": 37.74764527
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 35,
+        "fields": {
+            "ID": "KCMPLPO22N000000035",
+            "POI_NM": "순천드라마촬영장",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "순천시",
+            "LEGALDONG_NM": "조례동",
+            "LI_NM": null,
+            "LNBR_NO": "22",
+            "LC_LO": 127.5376123,
+            "LC_LA": 34.95730623
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 36,
+        "fields": {
+            "ID": "KCMPLPO22N000000036",
+            "POI_NM": "영화외출촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "삼척시",
+            "LEGALDONG_NM": "정하동",
+            "LI_NM": null,
+            "LNBR_NO": "45050",
+            "LC_LO": 129.1886561,
+            "LC_LA": 37.44899272
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 37,
+        "fields": {
+            "ID": "KCMPLPO22N000000037",
+            "POI_NM": "서울1945촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "합천군",
+            "LEGALDONG_NM": "용주면",
+            "LI_NM": "가호리",
+            "LNBR_NO": "256-5",
+            "LC_LO": 128.0723534,
+            "LC_LA": 35.54833961
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 38,
+        "fields": {
+            "ID": "KCMPLPO22N000000038",
+            "POI_NM": "죽성성당",
+            "CTPRVN_NM": "부산광역시",
+            "SIGNGU_NM": "기장군",
+            "LEGALDONG_NM": "기장읍",
+            "LI_NM": "죽성리",
+            "LNBR_NO": "135",
+            "LC_LO": 129.2485855,
+            "LC_LA": 35.2410491
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 39,
+        "fields": {
+            "ID": "KCMPLPO22N000000039",
+            "POI_NM": "대장금촬영지",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "고창군",
+            "LEGALDONG_NM": "아산면",
+            "LI_NM": "삼인리",
+            "LNBR_NO": "397-1",
+            "LC_LO": 126.5845649,
+            "LC_LA": 35.5003967
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 40,
+        "fields": {
+            "ID": "KCMPLPO22N000000040",
+            "POI_NM": "올인촬영지",
+            "CTPRVN_NM": "제주특별자치도",
+            "SIGNGU_NM": "서귀포시",
+            "LEGALDONG_NM": "표선면",
+            "LI_NM": "가시리",
+            "LNBR_NO": "11-65",
+            "LC_LO": 126.7226956,
+            "LC_LA": 33.3923182
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 41,
+        "fields": {
+            "ID": "KCMPLPO22N000000041",
+            "POI_NM": "풀하우스촬영지",
+            "CTPRVN_NM": "인천광역시",
+            "SIGNGU_NM": "옹진군",
+            "LEGALDONG_NM": "북도면",
+            "LI_NM": "시도리",
+            "LNBR_NO": "6-45",
+            "LC_LO": 126.4318252,
+            "LC_LA": 37.54410098
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 42,
+        "fields": {
+            "ID": "KCMPLPO22N000000042",
+            "POI_NM": "가을동화촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "속초시",
+            "LEGALDONG_NM": "청호동",
+            "LI_NM": null,
+            "LNBR_NO": "838",
+            "LC_LO": 128.5947811,
+            "LC_LA": 38.20289203
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 43,
+        "fields": {
+            "ID": "KCMPLPO22N000000043",
+            "POI_NM": "환상의커플철수네집촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "남해군",
+            "LEGALDONG_NM": "삼동면",
+            "LI_NM": "물건리",
+            "LNBR_NO": "산48-1",
+            "LC_LO": 128.0403264,
+            "LC_LA": 34.8005792
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 44,
+        "fields": {
+            "ID": "KCMPLPO22N000000044",
+            "POI_NM": "환상의커플촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "남해군",
+            "LEGALDONG_NM": "삼동면",
+            "LI_NM": "물건리",
+            "LNBR_NO": "1142",
+            "LC_LO": 128.0400847,
+            "LC_LA": 34.7991398
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 45,
+        "fields": {
+            "ID": "KCMPLPO22N000000045",
+            "POI_NM": "겨울연가촬영지",
+            "CTPRVN_NM": "서울특별시",
+            "SIGNGU_NM": "종로구",
+            "LEGALDONG_NM": "가회동",
+            "LI_NM": null,
+            "LNBR_NO": "45246",
+            "LC_LO": 126.9857249,
+            "LC_LA": 37.58248853
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 46,
+        "fields": {
+            "ID": "KCMPLPO22N000000046",
+            "POI_NM": "원정리",
+            "CTPRVN_NM": "대전광역시",
+            "SIGNGU_NM": "서구",
+            "LEGALDONG_NM": "용촌동",
+            "LI_NM": null,
+            "LNBR_NO": "493-1",
+            "LC_LO": 127.3156471,
+            "LC_LA": 36.24766738
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 47,
+        "fields": {
+            "ID": "KCMPLPO22N000000047",
+            "POI_NM": "섭지코지올인하우스",
+            "CTPRVN_NM": "제주특별자치도",
+            "SIGNGU_NM": "서귀포시",
+            "LEGALDONG_NM": "성산읍",
+            "LI_NM": "고성리",
+            "LNBR_NO": "57",
+            "LC_LO": 126.9314244,
+            "LC_LA": 33.4258356
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 48,
+        "fields": {
+            "ID": "KCMPLPO22N000000048",
+            "POI_NM": "시크릿가든촬영장",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "여주시",
+            "LEGALDONG_NM": "세종대왕면",
+            "LI_NM": "용은리",
+            "LNBR_NO": "443-3",
+            "LC_LO": 127.5393369,
+            "LC_LA": 37.29150626
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 49,
+        "fields": {
+            "ID": "KCMPLPO22N000000049",
+            "POI_NM": "선샤인스튜디오",
+            "CTPRVN_NM": "충청남도",
+            "SIGNGU_NM": "논산시",
+            "LEGALDONG_NM": "연무읍",
+            "LI_NM": "황화정리",
+            "LNBR_NO": "859-55",
+            "LC_LO": 127.1055202,
+            "LC_LA": 36.1027085
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 50,
+        "fields": {
+            "ID": "KCMPLPO22N000000050",
+            "POI_NM": "석불산영상랜드",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "부안군",
+            "LEGALDONG_NM": "하서면",
+            "LI_NM": "청호리",
+            "LNBR_NO": "685-56",
+            "LC_LO": 126.6421655,
+            "LC_LA": 35.72690465
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 51,
+        "fields": {
+            "ID": "KCMPLPO22N000000051",
+            "POI_NM": "상도촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "순천시",
+            "LEGALDONG_NM": "낙안면",
+            "LI_NM": "금산리",
+            "LNBR_NO": "산78-1",
+            "LC_LO": 127.3530078,
+            "LC_LA": 34.92684778
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 52,
+        "fields": {
+            "ID": "KCMPLPO22N000000052",
+            "POI_NM": "장길산촬영지",
+            "CTPRVN_NM": "충청남도",
+            "SIGNGU_NM": "태안군",
+            "LEGALDONG_NM": "남면",
+            "LI_NM": "몽산리",
+            "LNBR_NO": "465-332",
+            "LC_LO": 126.2685005,
+            "LC_LA": 36.70031577
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 53,
+        "fields": {
+            "ID": "KCMPLPO22N000000053",
+            "POI_NM": "대왕세종촬영지",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "문경시",
+            "LEGALDONG_NM": "문경읍",
+            "LI_NM": "상초리",
+            "LNBR_NO": "66",
+            "LC_LO": 128.073791,
+            "LC_LA": 36.77115317
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 54,
+        "fields": {
+            "ID": "KCMPLPO22N000000054",
+            "POI_NM": "별에서온그대촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "양산시",
+            "LEGALDONG_NM": "하북면",
+            "LI_NM": "순지리",
+            "LNBR_NO": "472-1",
+            "LC_LO": 129.0830503,
+            "LC_LA": 35.49847849
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 55,
+        "fields": {
+            "ID": "KCMPLPO22N000000055",
+            "POI_NM": "웰컴투동막골촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "평창군",
+            "LEGALDONG_NM": "대관령면",
+            "LI_NM": "횡계리",
+            "LNBR_NO": "704-5",
+            "LC_LO": 128.7254286,
+            "LC_LA": 37.74760904
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 56,
+        "fields": {
+            "ID": "KCMPLPO22N000000056",
+            "POI_NM": "용인대장금파크",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "용인시 처인구",
+            "LEGALDONG_NM": "백암면",
+            "LI_NM": "용천리",
+            "LNBR_NO": "778-1",
+            "LC_LO": 127.3378362,
+            "LC_LA": 37.12110507
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 57,
+        "fields": {
+            "ID": "KCMPLPO22N000000057",
+            "POI_NM": "학교2013촬영지",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "수원시 팔달구",
+            "LEGALDONG_NM": "화서동",
+            "LI_NM": null,
+            "LNBR_NO": "720",
+            "LC_LO": 126.9788434,
+            "LC_LA": 37.2877975
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 58,
+        "fields": {
+            "ID": "KCMPLPO22N000000058",
+            "POI_NM": "괴물촬영지",
+            "CTPRVN_NM": "서울특별시",
+            "SIGNGU_NM": "용산구",
+            "LEGALDONG_NM": "이촌동",
+            "LI_NM": null,
+            "LNBR_NO": "393-3",
+            "LC_LO": 126.9521658,
+            "LC_LA": 37.52929073
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 59,
+        "fields": {
+            "ID": "KCMPLPO22N000000059",
+            "POI_NM": "봄여름가을겨울그리고봄촬영지",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "청송군",
+            "LEGALDONG_NM": "주왕산면",
+            "LI_NM": "주산지리",
+            "LNBR_NO": "산41-1",
+            "LC_LO": 129.1954241,
+            "LC_LA": 36.35549862
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 60,
+        "fields": {
+            "ID": "KCMPLPO22N000000060",
+            "POI_NM": "천국의계단촬영지",
+            "CTPRVN_NM": "서울특별시",
+            "SIGNGU_NM": "송파구",
+            "LEGALDONG_NM": "잠실동",
+            "LI_NM": null,
+            "LNBR_NO": "1-40",
+            "LC_LO": 127.0981798,
+            "LC_LA": 37.51109837
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 61,
+        "fields": {
+            "ID": "KCMPLPO22N000000061",
+            "POI_NM": "천년학촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "장흥군",
+            "LEGALDONG_NM": "회진면",
+            "LI_NM": "회진리",
+            "LNBR_NO": "1740-1",
+            "LC_LO": 126.9409677,
+            "LC_LA": 34.46668648
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 62,
+        "fields": {
+            "ID": "KCMPLPO22N000000062",
+            "POI_NM": "SBS드라마드림세트장",
+            "CTPRVN_NM": "부산광역시",
+            "SIGNGU_NM": "기장군",
+            "LEGALDONG_NM": "기장읍",
+            "LI_NM": "죽성리",
+            "LNBR_NO": "135",
+            "LC_LO": 129.2485646,
+            "LC_LA": 35.24106427
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 63,
+        "fields": {
+            "ID": "KCMPLPO22N000000063",
+            "POI_NM": "영화외출촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "삼척시",
+            "LEGALDONG_NM": "성내동",
+            "LI_NM": null,
+            "LNBR_NO": "45140",
+            "LC_LO": 129.1605357,
+            "LC_LA": 37.44087718
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 64,
+        "fields": {
+            "ID": "KCMPLPO22N000000064",
+            "POI_NM": "대장금촬영지",
+            "CTPRVN_NM": "충청남도",
+            "SIGNGU_NM": "금산군",
+            "LEGALDONG_NM": "부리면",
+            "LI_NM": "수통리",
+            "LNBR_NO": "152-2",
+            "LC_LO": 127.5973859,
+            "LC_LA": 36.06467561
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 65,
+        "fields": {
+            "ID": "KCMPLPO22N000000065",
+            "POI_NM": "서동요세트장",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "익산시",
+            "LEGALDONG_NM": "여산면",
+            "LI_NM": "원수리",
+            "LNBR_NO": "1004-3",
+            "LC_LO": 127.0795346,
+            "LC_LA": 36.02348471
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 66,
+        "fields": {
+            "ID": "KCMPLPO22N000000066",
+            "POI_NM": "아현동골목길",
+            "CTPRVN_NM": "서울특별시",
+            "SIGNGU_NM": "마포구",
+            "LEGALDONG_NM": "아현동",
+            "LI_NM": null,
+            "LNBR_NO": "729-1",
+            "LC_LO": 126.9610552,
+            "LC_LA": 37.55653932
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 67,
+        "fields": {
+            "ID": "KCMPLPO22N000000067",
+            "POI_NM": "JSA촬영지",
+            "CTPRVN_NM": "충청남도",
+            "SIGNGU_NM": "서천군",
+            "LEGALDONG_NM": "한산면",
+            "LI_NM": "신성리",
+            "LNBR_NO": "45150",
+            "LC_LO": 126.8626188,
+            "LC_LA": 36.0682168
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 68,
+        "fields": {
+            "ID": "KCMPLPO22N000000068",
+            "POI_NM": "선물촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "보성군",
+            "LEGALDONG_NM": "보성읍",
+            "LI_NM": "봉산리",
+            "LNBR_NO": "산181",
+            "LC_LO": 127.089245,
+            "LC_LA": 34.73636092
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 69,
+        "fields": {
+            "ID": "KCMPLPO22N000000069",
+            "POI_NM": "고맙습니다촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "신안군",
+            "LEGALDONG_NM": "증도면",
+            "LI_NM": "대초리",
+            "LNBR_NO": "1828",
+            "LC_LO": 126.16155,
+            "LC_LA": 34.94752246
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 70,
+        "fields": {
+            "ID": "KCMPLPO22N000000070",
+            "POI_NM": "청석골드라마세트장",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "철원군",
+            "LEGALDONG_NM": "근남면",
+            "LI_NM": "잠곡리",
+            "LNBR_NO": "산133-1",
+            "LC_LO": 127.4793063,
+            "LC_LA": 38.19444422
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 71,
+        "fields": {
+            "ID": "KCMPLPO22N000000071",
+            "POI_NM": "순수의시대촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "통영시",
+            "LEGALDONG_NM": "한산면",
+            "LI_NM": "비진리",
+            "LNBR_NO": "산46-1",
+            "LC_LO": 128.4601721,
+            "LC_LA": 34.72268778
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 72,
+        "fields": {
+            "ID": "KCMPLPO22N000000072",
+            "POI_NM": "신라밀레니엄파크선덕여왕촬영지",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "경주시",
+            "LEGALDONG_NM": "신평동",
+            "LI_NM": null,
+            "LNBR_NO": "719-70",
+            "LC_LO": 129.2966478,
+            "LC_LA": 35.83377297
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 73,
+        "fields": {
+            "ID": "KCMPLPO22N000000073",
+            "POI_NM": "문경실내촬영스튜디오",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "문경시",
+            "LEGALDONG_NM": "신기동",
+            "LI_NM": null,
+            "LNBR_NO": "4-34",
+            "LC_LO": 128.1791233,
+            "LC_LA": 36.63876706
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 74,
+        "fields": {
+            "ID": "KCMPLPO22N000000074",
+            "POI_NM": "내마음의풍금촬영장",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "고창군",
+            "LEGALDONG_NM": "고수면",
+            "LI_NM": "상평리",
+            "LNBR_NO": "산78",
+            "LC_LO": 126.6956761,
+            "LC_LA": 35.38159734
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 75,
+        "fields": {
+            "ID": "KCMPLPO22N000000075",
+            "POI_NM": "아스달연대기드라마세트장",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "오산시",
+            "LEGALDONG_NM": "내삼미동",
+            "LI_NM": null,
+            "LNBR_NO": "245",
+            "LC_LO": 127.0640163,
+            "LC_LA": 37.17918204
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 76,
+        "fields": {
+            "ID": "KCMPLPO22N000000076",
+            "POI_NM": "대조영촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "속초시",
+            "LEGALDONG_NM": "장사동",
+            "LI_NM": null,
+            "LNBR_NO": "24-66",
+            "LC_LO": 128.5237644,
+            "LC_LA": 38.20766117
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 77,
+        "fields": {
+            "ID": "KCMPLPO22N000000077",
+            "POI_NM": "갯마을드라마촬영지",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "포항시 북구",
+            "LEGALDONG_NM": "청하면",
+            "LI_NM": "청진리",
+            "LNBR_NO": "429",
+            "LC_LO": 129.3969708,
+            "LC_LA": 36.17054208
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 78,
+        "fields": {
+            "ID": "KCMPLPO22N000000078",
+            "POI_NM": "폭풍속으로촬영지",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "울진군",
+            "LEGALDONG_NM": "북면",
+            "LI_NM": "덕구리",
+            "LNBR_NO": "산186",
+            "LC_LO": 129.2773834,
+            "LC_LA": 37.07832273
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 79,
+        "fields": {
+            "ID": "KCMPLPO22N000000079",
+            "POI_NM": "네멋대로해라촬영지",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "포항시 남구",
+            "LEGALDONG_NM": "대도동",
+            "LI_NM": null,
+            "LNBR_NO": "640-7",
+            "LC_LO": 129.3565288,
+            "LC_LA": 36.00952987
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 80,
+        "fields": {
+            "ID": "KCMPLPO22N000000080",
+            "POI_NM": "청춘불패촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "홍천군",
+            "LEGALDONG_NM": "남면",
+            "LI_NM": "유치리",
+            "LNBR_NO": "301",
+            "LC_LO": 127.8763942,
+            "LC_LA": 37.58598172
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 81,
+        "fields": {
+            "ID": "KCMPLPO22N000000081",
+            "POI_NM": "디마종합촬영소",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "안성시",
+            "LEGALDONG_NM": "삼죽면",
+            "LI_NM": "내강리",
+            "LNBR_NO": "558",
+            "LC_LO": 127.3535346,
+            "LC_LA": 37.06085132
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 82,
+        "fields": {
+            "ID": "KCMPLPO22N000000082",
+            "POI_NM": "엽기적인그녀촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "정선군",
+            "LEGALDONG_NM": "신동읍",
+            "LI_NM": "조동리",
+            "LNBR_NO": "499-11",
+            "LC_LO": 128.6885243,
+            "LC_LA": 37.20144992
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 83,
+        "fields": {
+            "ID": "KCMPLPO22N000000083",
+            "POI_NM": "겨울연가촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "평창군",
+            "LEGALDONG_NM": "대관령면",
+            "LI_NM": "차항리",
+            "LNBR_NO": "137-2",
+            "LC_LO": 128.6829987,
+            "LC_LA": 37.71283066
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 84,
+        "fields": {
+            "ID": "KCMPLPO22N000000084",
+            "POI_NM": "온달관광지온달세트장",
+            "CTPRVN_NM": "충청북도",
+            "SIGNGU_NM": "단양군",
+            "LEGALDONG_NM": "영춘면",
+            "LI_NM": "하리",
+            "LNBR_NO": "147",
+            "LC_LO": 128.4918193,
+            "LC_LA": 37.06212332
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 85,
+        "fields": {
+            "ID": "KCMPLPO22N000000085",
+            "POI_NM": "감자꽃사진촬영장",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "평창군",
+            "LEGALDONG_NM": "대관령면",
+            "LI_NM": "차항리",
+            "LNBR_NO": "124-5",
+            "LC_LO": 128.6890276,
+            "LC_LA": 37.70595836
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 86,
+        "fields": {
+            "ID": "KCMPLPO22N000000086",
+            "POI_NM": "금강송드라마세트장",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "울진군",
+            "LEGALDONG_NM": "북면",
+            "LI_NM": "나곡리",
+            "LNBR_NO": "산79",
+            "LC_LO": 129.3735924,
+            "LC_LA": 37.117092
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 87,
+        "fields": {
+            "ID": "KCMPLPO22N000000087",
+            "POI_NM": "허준촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "해남군",
+            "LEGALDONG_NM": "송지면",
+            "LI_NM": "송호리",
+            "LNBR_NO": "180-14",
+            "LC_LO": 126.5215616,
+            "LC_LA": 34.34326467
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 88,
+        "fields": {
+            "ID": "KCMPLPO22N000000088",
+            "POI_NM": "태양을삼켜라세트장",
+            "CTPRVN_NM": "제주특별자치도",
+            "SIGNGU_NM": "서귀포시",
+            "LEGALDONG_NM": "남원읍",
+            "LI_NM": "위미리",
+            "LNBR_NO": "산68-8",
+            "LC_LO": 126.6421255,
+            "LC_LA": 33.32064622
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 89,
+        "fields": {
+            "ID": "KCMPLPO22N000000089",
+            "POI_NM": "마파도영화촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "영광군",
+            "LEGALDONG_NM": "백수읍",
+            "LI_NM": "백암리",
+            "LNBR_NO": "239",
+            "LC_LO": 126.3803424,
+            "LC_LA": 35.32016687
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 90,
+        "fields": {
+            "ID": "KCMPLPO22N000000090",
+            "POI_NM": "영상테마파크&청와대세트장",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "합천군",
+            "LEGALDONG_NM": "용주면",
+            "LI_NM": "가호리",
+            "LNBR_NO": "256-5",
+            "LC_LO": 128.0711594,
+            "LC_LA": 35.54913502
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 91,
+        "fields": {
+            "ID": "KCMPLPO22N000000091",
+            "POI_NM": "가은오픈세트장",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "문경시",
+            "LEGALDONG_NM": "가은읍",
+            "LI_NM": "왕능리",
+            "LNBR_NO": "산13-5",
+            "LC_LO": 128.0655737,
+            "LC_LA": 36.65304902
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 92,
+        "fields": {
+            "ID": "KCMPLPO22N000000092",
+            "POI_NM": "단적비연수촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "산청군",
+            "LEGALDONG_NM": "차황면",
+            "LI_NM": "법평리",
+            "LNBR_NO": "44927",
+            "LC_LO": 127.9695818,
+            "LC_LA": 35.48508696
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 93,
+        "fields": {
+            "ID": "KCMPLPO22N000000093",
+            "POI_NM": "겨울연가촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "춘천시",
+            "LEGALDONG_NM": "남산면",
+            "LI_NM": "방하리",
+            "LNBR_NO": "197",
+            "LC_LO": 127.5267431,
+            "LC_LA": 37.79539948
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 94,
+        "fields": {
+            "ID": "KCMPLPO22N000000094",
+            "POI_NM": "한국민속촌다모드라마촬영지",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "용인시 기흥구",
+            "LEGALDONG_NM": "보라동",
+            "LI_NM": null,
+            "LNBR_NO": "35",
+            "LC_LO": 127.1228563,
+            "LC_LA": 37.26065399
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 95,
+        "fields": {
+            "ID": "KCMPLPO22N000000095",
+            "POI_NM": "가을동화촬영장소",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "평창군",
+            "LEGALDONG_NM": "대관령면",
+            "LI_NM": "횡계리",
+            "LNBR_NO": "704-5",
+            "LC_LO": 128.7217873,
+            "LC_LA": 37.74071197
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 96,
+        "fields": {
+            "ID": "KCMPLPO22N000000096",
+            "POI_NM": "번지점프를하다촬영장",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "구례군",
+            "LEGALDONG_NM": "마산면",
+            "LI_NM": "황전리",
+            "LNBR_NO": "산20-1",
+            "LC_LO": 127.5279765,
+            "LC_LA": 35.29345197
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 97,
+        "fields": {
+            "ID": "KCMPLPO22N000000097",
+            "POI_NM": "횡성테마랜드",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "횡성군",
+            "LEGALDONG_NM": "우천면",
+            "LI_NM": "두곡리",
+            "LNBR_NO": "558-1",
+            "LC_LO": 128.0376328,
+            "LC_LA": 37.47699317
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 98,
+        "fields": {
+            "ID": "KCMPLPO22N000000098",
+            "POI_NM": "봄날은간다촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "삼척시",
+            "LEGALDONG_NM": "근덕면",
+            "LI_NM": "상맹방리",
+            "LNBR_NO": "산150",
+            "LC_LO": 129.1993707,
+            "LC_LA": 37.39709706
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 99,
+        "fields": {
+            "ID": "KCMPLPO22N000000099",
+            "POI_NM": "여름향기촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "평창군",
+            "LEGALDONG_NM": "진부면",
+            "LI_NM": "동산리",
+            "LNBR_NO": "산1",
+            "LC_LO": 128.5956466,
+            "LC_LA": 37.77133241
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 100,
+        "fields": {
+            "ID": "KCMPLPO22N000000100",
+            "POI_NM": "친구촬영지",
+            "CTPRVN_NM": "부산광역시",
+            "SIGNGU_NM": "동구",
+            "LEGALDONG_NM": "좌천동",
+            "LI_NM": null,
+            "LNBR_NO": "777-2",
+            "LC_LO": 129.0520792,
+            "LC_LA": 35.13408517
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 101,
+        "fields": {
+            "ID": "KCMPLPO22N000000101",
+            "POI_NM": "해변의여인촬영지",
+            "CTPRVN_NM": "충청남도",
+            "SIGNGU_NM": "태안군",
+            "LEGALDONG_NM": "원북면",
+            "LI_NM": "신두리",
+            "LNBR_NO": "1414-3",
+            "LC_LO": 126.1847832,
+            "LC_LA": 36.83729014
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 102,
+        "fields": {
+            "ID": "KCMPLPO22N000000102",
+            "POI_NM": "영화외출촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "삼척시",
+            "LEGALDONG_NM": "갈천동",
+            "LI_NM": null,
+            "LNBR_NO": "14",
+            "LC_LO": 129.1697831,
+            "LC_LA": 37.46709189
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 103,
+        "fields": {
+            "ID": "KCMPLPO22N000000103",
+            "POI_NM": "제주실내영상스튜디오",
+            "CTPRVN_NM": "제주특별자치도",
+            "SIGNGU_NM": "제주시",
+            "LEGALDONG_NM": "한경면",
+            "LI_NM": "저지리",
+            "LNBR_NO": "2114-37",
+            "LC_LO": 126.2621946,
+            "LC_LA": 33.33978417
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 104,
+        "fields": {
+            "ID": "KCMPLPO22N000000104",
+            "POI_NM": "가문의영광촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "여수시",
+            "LEGALDONG_NM": "남산동",
+            "LI_NM": null,
+            "LNBR_NO": "277",
+            "LC_LO": 127.7296777,
+            "LC_LA": 34.73466142
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 105,
+        "fields": {
+            "ID": "KCMPLPO22N000000105",
+            "POI_NM": "이제수의난촬영지",
+            "CTPRVN_NM": "제주특별자치도",
+            "SIGNGU_NM": "서귀포시",
+            "LEGALDONG_NM": "표선면",
+            "LI_NM": "성읍리",
+            "LNBR_NO": "944",
+            "LC_LO": 126.8021752,
+            "LC_LA": 33.38570627
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 106,
+        "fields": {
+            "ID": "KCMPLPO22N000000106",
+            "POI_NM": "하늘정원촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "사천시",
+            "LEGALDONG_NM": "벌리동",
+            "LI_NM": null,
+            "LNBR_NO": "453-5",
+            "LC_LO": 128.0809868,
+            "LC_LA": 34.9389203
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 107,
+        "fields": {
+            "ID": "KCMPLPO22N000000107",
+            "POI_NM": "해신청해포구촬영장",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "완도군",
+            "LEGALDONG_NM": "완도읍",
+            "LI_NM": "대신리",
+            "LNBR_NO": "1089-3",
+            "LC_LO": 126.6698166,
+            "LC_LA": 34.32433761
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 108,
+        "fields": {
+            "ID": "KCMPLPO22N000000108",
+            "POI_NM": "태양의후예촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "태백시",
+            "LEGALDONG_NM": "통동",
+            "LI_NM": null,
+            "LNBR_NO": "산67-38",
+            "LC_LO": 129.0429792,
+            "LC_LA": 37.16078077
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 109,
+        "fields": {
+            "ID": "KCMPLPO22N000000109",
+            "POI_NM": "명진책대여점",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "전주시 완산구",
+            "LEGALDONG_NM": "서서학동",
+            "LI_NM": null,
+            "LNBR_NO": "44928",
+            "LC_LO": 127.1517389,
+            "LC_LA": 35.80833572
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 110,
+        "fields": {
+            "ID": "KCMPLPO22N000000110",
+            "POI_NM": "은행나무침대촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "거제시",
+            "LEGALDONG_NM": "남부면",
+            "LI_NM": "다포리",
+            "LNBR_NO": "10-58",
+            "LC_LO": 128.6227649,
+            "LC_LA": 34.71463096
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 111,
+        "fields": {
+            "ID": "KCMPLPO22N000000111",
+            "POI_NM": "아름다운시절촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "의령군",
+            "LEGALDONG_NM": "가례면",
+            "LI_NM": "개승리",
+            "LNBR_NO": "355-1",
+            "LC_LO": 128.2356339,
+            "LC_LA": 35.38024377
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 112,
+        "fields": {
+            "ID": "KCMPLPO22N000000112",
+            "POI_NM": "연풍연가촬영지",
+            "CTPRVN_NM": "제주특별자치도",
+            "SIGNGU_NM": "제주시",
+            "LEGALDONG_NM": "한림읍",
+            "LI_NM": "동명리",
+            "LNBR_NO": "287-2",
+            "LC_LO": 126.2790127,
+            "LC_LA": 33.38842292
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 113,
+        "fields": {
+            "ID": "KCMPLPO22N000000113",
+            "POI_NM": "인생은아름다워촬영지",
+            "CTPRVN_NM": "제주특별자치도",
+            "SIGNGU_NM": "서귀포시",
+            "LEGALDONG_NM": "대정읍",
+            "LI_NM": "상모리",
+            "LNBR_NO": "170-3",
+            "LC_LO": 126.2889489,
+            "LC_LA": 33.20577961
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 114,
+        "fields": {
+            "ID": "KCMPLPO22N000000114",
+            "POI_NM": "박하사탕촬영지",
+            "CTPRVN_NM": "충청북도",
+            "SIGNGU_NM": "제천시",
+            "LEGALDONG_NM": "백운면",
+            "LI_NM": "애련리",
+            "LNBR_NO": "724",
+            "LC_LO": 128.0609736,
+            "LC_LA": 37.08961549
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 115,
+        "fields": {
+            "ID": "KCMPLPO22N000000115",
+            "POI_NM": "달마야놀자촬영장",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "김해시",
+            "LEGALDONG_NM": "삼방동",
+            "LI_NM": null,
+            "LNBR_NO": "산120-1",
+            "LC_LO": 128.9146047,
+            "LC_LA": 35.26477541
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 116,
+        "fields": {
+            "ID": "KCMPLPO22N000000116",
+            "POI_NM": "드라마하우스",
+            "CTPRVN_NM": "울산광역시",
+            "SIGNGU_NM": "울주군",
+            "LEGALDONG_NM": "서생면",
+            "LI_NM": "대송리",
+            "LNBR_NO": "산28",
+            "LC_LO": 129.359466,
+            "LC_LA": 35.36411502
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 117,
+        "fields": {
+            "ID": "KCMPLPO22N000000117",
+            "POI_NM": "영상컨텐츠소프트웨어진흥센터(2022년11월예정)",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "원주시",
+            "LEGALDONG_NM": "반곡동",
+            "LI_NM": null,
+            "LNBR_NO": "2042",
+            "LC_LO": 127.9884941,
+            "LC_LA": 37.32124966
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 118,
+        "fields": {
+            "ID": "KCMPLPO22N000000118",
+            "POI_NM": "겨울연가촬영지",
+            "CTPRVN_NM": "서울특별시",
+            "SIGNGU_NM": "종로구",
+            "LEGALDONG_NM": "가회동",
+            "LI_NM": null,
+            "LNBR_NO": "1",
+            "LC_LO": 126.9866672,
+            "LC_LA": 37.58355658
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 119,
+        "fields": {
+            "ID": "KCMPLPO22N000000119",
+            "POI_NM": "태백산맥촬영장",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "장성군",
+            "LEGALDONG_NM": "북일면",
+            "LI_NM": "문암리",
+            "LNBR_NO": "산171",
+            "LC_LO": 126.7369269,
+            "LC_LA": 35.39496928
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 120,
+        "fields": {
+            "ID": "KCMPLPO22N000000120",
+            "POI_NM": "인어공주촬영지",
+            "CTPRVN_NM": "제주특별자치도",
+            "SIGNGU_NM": "제주시",
+            "LEGALDONG_NM": "우도면",
+            "LI_NM": "연평리",
+            "LNBR_NO": "307",
+            "LC_LO": 126.9698857,
+            "LC_LA": 33.49898631
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 121,
+        "fields": {
+            "ID": "KCMPLPO22N000000121",
+            "POI_NM": "아트서비스A동",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "파주시",
+            "LEGALDONG_NM": "탄현면",
+            "LI_NM": "법흥리",
+            "LNBR_NO": "1652-155",
+            "LC_LO": 126.6947112,
+            "LC_LA": 37.78939298
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 122,
+        "fields": {
+            "ID": "KCMPLPO22N000000122",
+            "POI_NM": "여름향기촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "보성군",
+            "LEGALDONG_NM": "보성읍",
+            "LI_NM": "옥평리",
+            "LNBR_NO": "산76",
+            "LC_LO": 127.102738,
+            "LC_LA": 34.75480494
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 123,
+        "fields": {
+            "ID": "KCMPLPO22N000000123",
+            "POI_NM": "클래식촬영지",
+            "CTPRVN_NM": "대전광역시",
+            "SIGNGU_NM": "서구",
+            "LEGALDONG_NM": "원정동",
+            "LI_NM": null,
+            "LNBR_NO": "477-3",
+            "LC_LO": 127.2979298,
+            "LC_LA": 36.25689349
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 124,
+        "fields": {
+            "ID": "KCMPLPO22N000000124",
+            "POI_NM": "워낭소리부부의집",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "봉화군",
+            "LEGALDONG_NM": "상운면",
+            "LI_NM": "하눌리",
+            "LNBR_NO": "726-2",
+            "LC_LO": 128.7687472,
+            "LC_LA": 36.8717952
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 125,
+        "fields": {
+            "ID": "KCMPLPO22N000000125",
+            "POI_NM": "도깨비촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "강릉시",
+            "LEGALDONG_NM": "주문진읍",
+            "LI_NM": "교항리",
+            "LNBR_NO": "81-32",
+            "LC_LO": 128.8333906,
+            "LC_LA": 37.87942427
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 126,
+        "fields": {
+            "ID": "KCMPLPO22N000000126",
+            "POI_NM": "남양주종합촬영소",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "남양주시",
+            "LEGALDONG_NM": "조안면",
+            "LI_NM": "삼봉리",
+            "LNBR_NO": "92",
+            "LC_LO": 127.3186477,
+            "LC_LA": 37.60498953
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 127,
+        "fields": {
+            "ID": "KCMPLPO22N000000127",
+            "POI_NM": "선암사취화선촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "순천시",
+            "LEGALDONG_NM": "승주읍",
+            "LI_NM": "죽학리",
+            "LNBR_NO": "802",
+            "LC_LO": 127.3309122,
+            "LC_LA": 34.99642672
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 128,
+        "fields": {
+            "ID": "KCMPLPO22N000000128",
+            "POI_NM": "태조왕건촬영지",
+            "CTPRVN_NM": "충청북도",
+            "SIGNGU_NM": "제천시",
+            "LEGALDONG_NM": "금성면",
+            "LI_NM": "성내리",
+            "LNBR_NO": "260-1",
+            "LC_LO": 128.1734515,
+            "LC_LA": 37.02935288
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 129,
+        "fields": {
+            "ID": "KCMPLPO22N000000129",
+            "POI_NM": "첫사랑사수궐기대회촬영장",
+            "CTPRVN_NM": "부산광역시",
+            "SIGNGU_NM": "중구",
+            "LEGALDONG_NM": "중앙동7가",
+            "LI_NM": null,
+            "LNBR_NO": "2-79",
+            "LC_LO": 129.0364592,
+            "LC_LA": 35.09557858
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 130,
+        "fields": {
+            "ID": "KCMPLPO22N000000130",
+            "POI_NM": "봄의왈츠촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "완도군",
+            "LEGALDONG_NM": "청산면",
+            "LI_NM": "당락리",
+            "LNBR_NO": "323-1",
+            "LC_LO": 126.8623711,
+            "LC_LA": 34.17007156
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 131,
+        "fields": {
+            "ID": "KCMPLPO22N000000131",
+            "POI_NM": "겨울연가촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "평창군",
+            "LEGALDONG_NM": "대관령면",
+            "LI_NM": "용산리",
+            "LNBR_NO": "130",
+            "LC_LO": 128.6842304,
+            "LC_LA": 37.64286456
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 132,
+        "fields": {
+            "ID": "KCMPLPO22N000000132",
+            "POI_NM": "그겨울바람이분다촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "춘천시",
+            "LEGALDONG_NM": "남산면",
+            "LI_NM": "서천리",
+            "LNBR_NO": "412",
+            "LC_LO": 127.5427613,
+            "LC_LA": 37.83204481
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 133,
+        "fields": {
+            "ID": "KCMPLPO22N000000133",
+            "POI_NM": "어썸타운스튜디오",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "고양시 덕양구",
+            "LEGALDONG_NM": "내유동",
+            "LI_NM": null,
+            "LNBR_NO": "45275",
+            "LC_LO": 126.8678543,
+            "LC_LA": 37.72425179
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 134,
+        "fields": {
+            "ID": "KCMPLPO22N000000134",
+            "POI_NM": "청풍명월촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "밀양시",
+            "LEGALDONG_NM": "삼랑진읍",
+            "LI_NM": "용전리",
+            "LNBR_NO": "산88",
+            "LC_LO": 128.8296368,
+            "LC_LA": 35.43938006
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 135,
+        "fields": {
+            "ID": "KCMPLPO22N000000135",
+            "POI_NM": "전라좌수영",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "부안군",
+            "LEGALDONG_NM": "변산면",
+            "LI_NM": "격포리",
+            "LNBR_NO": "642",
+            "LC_LO": 126.4659518,
+            "LC_LA": 35.60985968
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 136,
+        "fields": {
+            "ID": "KCMPLPO22N000000136",
+            "POI_NM": "다모촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "담양군",
+            "LEGALDONG_NM": "금성면",
+            "LI_NM": "봉서리",
+            "LNBR_NO": "산45",
+            "LC_LO": 127.0496244,
+            "LC_LA": 35.33756739
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 137,
+        "fields": {
+            "ID": "KCMPLPO22N000000137",
+            "POI_NM": "불새드라마촬영지",
+            "CTPRVN_NM": "제주특별자치도",
+            "SIGNGU_NM": "서귀포시",
+            "LEGALDONG_NM": "색달동",
+            "LI_NM": null,
+            "LNBR_NO": "3-50",
+            "LC_LO": 126.4148125,
+            "LC_LA": 33.24500494
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 138,
+        "fields": {
+            "ID": "KCMPLPO22N000000138",
+            "POI_NM": "YMCA야구단촬영지",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "전주시 완산구",
+            "LEGALDONG_NM": "교동",
+            "LI_NM": null,
+            "LNBR_NO": "45011",
+            "LC_LO": 127.1572214,
+            "LC_LA": 35.81246853
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 139,
+        "fields": {
+            "ID": "KCMPLPO22N000000139",
+            "POI_NM": "춘향뎐촬영지",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "남원시",
+            "LEGALDONG_NM": "천거동",
+            "LI_NM": null,
+            "LNBR_NO": "118",
+            "LC_LO": 127.3778424,
+            "LC_LA": 35.40252056
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 140,
+        "fields": {
+            "ID": "KCMPLPO22N000000140",
+            "POI_NM": "카인과아벨촬영지",
+            "CTPRVN_NM": "충청북도",
+            "SIGNGU_NM": "청주시 상당구",
+            "LEGALDONG_NM": "수동",
+            "LI_NM": null,
+            "LNBR_NO": "81-73",
+            "LC_LO": 127.4943093,
+            "LC_LA": 36.64713916
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 141,
+        "fields": {
+            "ID": "KCMPLPO22N000000141",
+            "POI_NM": "TVN선다방촬영지",
+            "CTPRVN_NM": "서울특별시",
+            "SIGNGU_NM": "종로구",
+            "LEGALDONG_NM": "팔판동",
+            "LI_NM": null,
+            "LNBR_NO": "132-1",
+            "LC_LO": 126.9807548,
+            "LC_LA": 37.58258286
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 142,
+        "fields": {
+            "ID": "KCMPLPO22N000000142",
+            "POI_NM": "선생김봉두찰영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "정선군",
+            "LEGALDONG_NM": "신동읍",
+            "LI_NM": "덕천리",
+            "LNBR_NO": "436-4",
+            "LC_LO": 128.5717814,
+            "LC_LA": 37.25126972
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 143,
+        "fields": {
+            "ID": "KCMPLPO22N000000143",
+            "POI_NM": "서동요촬영지",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "익산시",
+            "LEGALDONG_NM": "신흥동",
+            "LI_NM": null,
+            "LNBR_NO": "산21",
+            "LC_LO": 126.9916515,
+            "LC_LA": 35.94546701
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 144,
+        "fields": {
+            "ID": "KCMPLPO22N000000144",
+            "POI_NM": "실미도촬영지",
+            "CTPRVN_NM": "인천광역시",
+            "SIGNGU_NM": "중구",
+            "LEGALDONG_NM": "무의동",
+            "LI_NM": null,
+            "LNBR_NO": "산361-5",
+            "LC_LO": 126.3912236,
+            "LC_LA": 37.40103884
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 145,
+        "fields": {
+            "ID": "KCMPLPO22N000000145",
+            "POI_NM": "폭풍속으로세트장",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "울진군",
+            "LEGALDONG_NM": "죽변면",
+            "LI_NM": "죽변리",
+            "LNBR_NO": "120-37",
+            "LC_LO": 129.4284613,
+            "LC_LA": 37.05902602
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 146,
+        "fields": {
+            "ID": "KCMPLPO22N000000146",
+            "POI_NM": "러브레터촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "횡성군",
+            "LEGALDONG_NM": "서원면",
+            "LI_NM": "유현리",
+            "LNBR_NO": "1097",
+            "LC_LO": 127.818621,
+            "LC_LA": 37.5291965
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 147,
+        "fields": {
+            "ID": "KCMPLPO22N000000147",
+            "POI_NM": "소향촌",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "안성시",
+            "LEGALDONG_NM": "금광면",
+            "LI_NM": "삼흥리",
+            "LNBR_NO": "753",
+            "LC_LO": 127.3627467,
+            "LC_LA": 37.01634273
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 148,
+        "fields": {
+            "ID": "KCMPLPO22N000000148",
+            "POI_NM": "한벽터널",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "전주시 완산구",
+            "LEGALDONG_NM": "교동",
+            "LI_NM": null,
+            "LNBR_NO": "산7-3",
+            "LC_LO": 127.1606805,
+            "LC_LA": 35.81202546
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 149,
+        "fields": {
+            "ID": "KCMPLPO22N000000149",
+            "POI_NM": "용의눈물촬영지",
+            "CTPRVN_NM": "충청남도",
+            "SIGNGU_NM": "태안군",
+            "LEGALDONG_NM": "원북면",
+            "LI_NM": "황촌리",
+            "LNBR_NO": "810-6",
+            "LC_LO": 126.1977607,
+            "LC_LA": 36.88639498
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 150,
+        "fields": {
+            "ID": "KCMPLPO22N000000150",
+            "POI_NM": "더그림",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "양평군",
+            "LEGALDONG_NM": "옥천면",
+            "LI_NM": "용천리",
+            "LNBR_NO": "564-7",
+            "LC_LO": 127.4970498,
+            "LC_LA": 37.52911276
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 151,
+        "fields": {
+            "ID": "KCMPLPO22N000000151",
+            "POI_NM": "영화밀양촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "밀양시",
+            "LEGALDONG_NM": "가곡동",
+            "LI_NM": null,
+            "LNBR_NO": "558-13",
+            "LC_LO": 128.7649571,
+            "LC_LA": 35.4743695
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 152,
+        "fields": {
+            "ID": "KCMPLPO22N000000152",
+            "POI_NM": "슬픈연가촬영지",
+            "CTPRVN_NM": "대전광역시",
+            "SIGNGU_NM": "동구",
+            "LEGALDONG_NM": "추동",
+            "LI_NM": null,
+            "LNBR_NO": "680",
+            "LC_LO": 127.4860319,
+            "LC_LA": 36.3788822
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 153,
+        "fields": {
+            "ID": "KCMPLPO22N000000153",
+            "POI_NM": "화왕산촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "창녕군",
+            "LEGALDONG_NM": "창녕읍",
+            "LI_NM": "말흘리",
+            "LNBR_NO": "244-2",
+            "LC_LO": 128.5084542,
+            "LC_LA": 35.53907794
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 154,
+        "fields": {
+            "ID": "KCMPLPO22N000000154",
+            "POI_NM": "익산교도소세트장",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "익산시",
+            "LEGALDONG_NM": "성당면",
+            "LI_NM": "와초리",
+            "LNBR_NO": "154-4",
+            "LC_LO": 126.9312629,
+            "LC_LA": 36.06936988
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 155,
+        "fields": {
+            "ID": "KCMPLPO22N000000155",
+            "POI_NM": "연애소설촬영장소",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "평창군",
+            "LEGALDONG_NM": "대관령면",
+            "LI_NM": "횡계리",
+            "LNBR_NO": "704-5",
+            "LC_LO": 128.7237042,
+            "LC_LA": 37.73946652
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 156,
+        "fields": {
+            "ID": "KCMPLPO22N000000156",
+            "POI_NM": "태왕사신기촬영지",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "구리시",
+            "LEGALDONG_NM": "아천동",
+            "LI_NM": null,
+            "LNBR_NO": "산46-4",
+            "LC_LO": 127.1101589,
+            "LC_LA": 37.56112653
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 157,
+        "fields": {
+            "ID": "KCMPLPO22N000000157",
+            "POI_NM": "스캔들촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "진도군",
+            "LEGALDONG_NM": "의신면",
+            "LI_NM": "만길리",
+            "LNBR_NO": "246",
+            "LC_LO": 126.2983902,
+            "LC_LA": 34.42156034
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 158,
+        "fields": {
+            "ID": "KCMPLPO22N000000158",
+            "POI_NM": "웰컴투동막골촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "평창군",
+            "LEGALDONG_NM": "미탄면",
+            "LI_NM": "율치리",
+            "LNBR_NO": "산50-14",
+            "LC_LO": 128.4703567,
+            "LC_LA": 37.31546504
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 159,
+        "fields": {
+            "ID": "KCMPLPO22N000000159",
+            "POI_NM": "나주영상테마파크",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "나주시",
+            "LEGALDONG_NM": "공산면",
+            "LI_NM": "신곡리",
+            "LNBR_NO": "1044",
+            "LC_LO": 126.6004821,
+            "LC_LA": 34.979561
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 160,
+        "fields": {
+            "ID": "KCMPLPO22N000000160",
+            "POI_NM": "후토스야외촬영장",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "봉화군",
+            "LEGALDONG_NM": "봉화읍",
+            "LI_NM": "유곡리",
+            "LNBR_NO": "산129",
+            "LC_LO": 128.7394225,
+            "LC_LA": 36.91118524
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 161,
+        "fields": {
+            "ID": "KCMPLPO22N000000161",
+            "POI_NM": "영화스캔들촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "진도군",
+            "LEGALDONG_NM": "의신면",
+            "LI_NM": "사천리",
+            "LNBR_NO": "61",
+            "LC_LO": 126.3089043,
+            "LC_LA": 34.46580712
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 162,
+        "fields": {
+            "ID": "KCMPLPO22N000000162",
+            "POI_NM": "아트하우스촬영소",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "고양시 일산서구",
+            "LEGALDONG_NM": "법곳동",
+            "LI_NM": null,
+            "LNBR_NO": "1124-3",
+            "LC_LO": 126.7179196,
+            "LC_LA": 37.67052213
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 163,
+        "fields": {
+            "ID": "KCMPLPO22N000000163",
+            "POI_NM": "가을동화촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "고성군",
+            "LEGALDONG_NM": "거진읍",
+            "LI_NM": "화포리",
+            "LNBR_NO": null,
+            "LC_LO": 128.4389302,
+            "LC_LA": 38.47889284
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 164,
+        "fields": {
+            "ID": "KCMPLPO22N000000164",
+            "POI_NM": "삼여전망대",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "통영시",
+            "LEGALDONG_NM": "욕지면",
+            "LI_NM": "서산리",
+            "LNBR_NO": "산8-218",
+            "LC_LO": 128.2514331,
+            "LC_LA": 34.62155518
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 165,
+        "fields": {
+            "ID": "KCMPLPO22N000000165",
+            "POI_NM": "청풍명월촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "담양군",
+            "LEGALDONG_NM": "금성면",
+            "LI_NM": "봉서리",
+            "LNBR_NO": "산45",
+            "LC_LO": 127.0496244,
+            "LC_LA": 35.33756739
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 166,
+        "fields": {
+            "ID": "KCMPLPO22N000000166",
+            "POI_NM": "제빵왕김탁구촬영지",
+            "CTPRVN_NM": "충청북도",
+            "SIGNGU_NM": "청주시 상당구",
+            "LEGALDONG_NM": "수동",
+            "LI_NM": null,
+            "LNBR_NO": "81-35",
+            "LC_LO": 127.4940557,
+            "LC_LA": 36.64733567
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 167,
+        "fields": {
+            "ID": "KCMPLPO22N000000167",
+            "POI_NM": "해양드라마세트장",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "창원시 마산합포구",
+            "LEGALDONG_NM": "구산면",
+            "LI_NM": "석곡리",
+            "LNBR_NO": "770",
+            "LC_LO": 128.5414439,
+            "LC_LA": 35.11005658
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 168,
+        "fields": {
+            "ID": "KCMPLPO22N000000168",
+            "POI_NM": "로망스촬영지",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "창원시 진해구",
+            "LEGALDONG_NM": "태백동",
+            "LI_NM": null,
+            "LNBR_NO": "산52-3",
+            "LC_LO": 128.6763582,
+            "LC_LA": 35.15928021
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 169,
+        "fields": {
+            "ID": "KCMPLPO22N000000169",
+            "POI_NM": "구서도역영상촬영장",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "남원시",
+            "LEGALDONG_NM": "사매면",
+            "LI_NM": "서도리",
+            "LNBR_NO": "44961",
+            "LC_LO": 127.3296354,
+            "LC_LA": 35.49045244
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 170,
+        "fields": {
+            "ID": "KCMPLPO22N000000170",
+            "POI_NM": "온달관광지정도전촬영지",
+            "CTPRVN_NM": "충청북도",
+            "SIGNGU_NM": "단양군",
+            "LEGALDONG_NM": "영춘면",
+            "LI_NM": "하리",
+            "LNBR_NO": "147",
+            "LC_LO": 128.4920526,
+            "LC_LA": 37.06210496
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 171,
+        "fields": {
+            "ID": "KCMPLPO22N000000171",
+            "POI_NM": "글로벌미디어",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "연천군",
+            "LEGALDONG_NM": "미산면",
+            "LI_NM": "백석리",
+            "LNBR_NO": "90",
+            "LC_LO": 126.9735942,
+            "LC_LA": 38.04846091
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 172,
+        "fields": {
+            "ID": "KCMPLPO22N000000172",
+            "POI_NM": "태양의남쪽촬영지",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "삼척시",
+            "LEGALDONG_NM": "근덕면",
+            "LI_NM": "장호리",
+            "LNBR_NO": "44986",
+            "LC_LO": 129.3151607,
+            "LC_LA": 37.28923831
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 173,
+        "fields": {
+            "ID": "KCMPLPO22N000000173",
+            "POI_NM": "KBS촬영장",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "안동시",
+            "LEGALDONG_NM": "성곡동",
+            "LI_NM": null,
+            "LNBR_NO": "731",
+            "LC_LO": 128.7685771,
+            "LC_LA": 36.57296214
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 174,
+        "fields": {
+            "ID": "KCMPLPO22N000000174",
+            "POI_NM": "아름다운시절영화촬영지",
+            "CTPRVN_NM": "전라북도",
+            "SIGNGU_NM": "임실군",
+            "LEGALDONG_NM": "덕치면",
+            "LI_NM": "천담리",
+            "LNBR_NO": "708",
+            "LC_LO": 127.1750264,
+            "LC_LA": 35.47567408
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 175,
+        "fields": {
+            "ID": "KCMPLPO22N000000175",
+            "POI_NM": "동승촬영지",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "안동시",
+            "LEGALDONG_NM": "서후면",
+            "LI_NM": "태장리",
+            "LNBR_NO": "749",
+            "LC_LO": 128.6682501,
+            "LC_LA": 36.64346693
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 176,
+        "fields": {
+            "ID": "KCMPLPO22N000000176",
+            "POI_NM": "부산영화촬영스튜디오",
+            "CTPRVN_NM": "부산광역시",
+            "SIGNGU_NM": "해운대구",
+            "LEGALDONG_NM": "우동",
+            "LI_NM": null,
+            "LNBR_NO": "1393",
+            "LC_LO": 129.1379739,
+            "LC_LA": 35.16244277
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 177,
+        "fields": {
+            "ID": "KCMPLPO22N000000177",
+            "POI_NM": "아트서비스B동",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "파주시",
+            "LEGALDONG_NM": "탄현면",
+            "LI_NM": "법흥리",
+            "LNBR_NO": "1652-164",
+            "LC_LO": 126.6942877,
+            "LC_LA": 37.7887635
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 178,
+        "fields": {
+            "ID": "KCMPLPO22N000000178",
+            "POI_NM": "대장금촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "보성군",
+            "LEGALDONG_NM": "득량면",
+            "LI_NM": "오봉리",
+            "LNBR_NO": "산58",
+            "LC_LO": 127.1622934,
+            "LC_LA": 34.75531922
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 179,
+        "fields": {
+            "ID": "KCMPLPO22N000000179",
+            "POI_NM": "나주영상테마파크주몽촬영장",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "나주시",
+            "LEGALDONG_NM": "공산면",
+            "LI_NM": "백사리",
+            "LNBR_NO": "산57",
+            "LC_LO": 126.60172,
+            "LC_LA": 34.97872364
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 180,
+        "fields": {
+            "ID": "KCMPLPO22N000000180",
+            "POI_NM": "최참판댁",
+            "CTPRVN_NM": "경상남도",
+            "SIGNGU_NM": "하동군",
+            "LEGALDONG_NM": "악양면",
+            "LI_NM": "평사리",
+            "LNBR_NO": "483",
+            "LC_LO": 127.6881083,
+            "LC_LA": 35.15564934
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 181,
+        "fields": {
+            "ID": "KCMPLPO22N000000181",
+            "POI_NM": "자산어보촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "신안군",
+            "LEGALDONG_NM": "도초면",
+            "LI_NM": "발매리",
+            "LNBR_NO": "1356",
+            "LC_LO": 125.9167953,
+            "LC_LA": 34.69402421
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 182,
+        "fields": {
+            "ID": "KCMPLPO22N000000182",
+            "POI_NM": "SBS제천촬영장",
+            "CTPRVN_NM": "충청북도",
+            "SIGNGU_NM": "제천시",
+            "LEGALDONG_NM": "청풍면",
+            "LI_NM": "물태리",
+            "LNBR_NO": "109-5",
+            "LC_LO": 128.1704297,
+            "LC_LA": 37.00314389
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 183,
+        "fields": {
+            "ID": "KCMPLPO22N000000183",
+            "POI_NM": "설악씨네라마",
+            "CTPRVN_NM": "강원도",
+            "SIGNGU_NM": "속초시",
+            "LEGALDONG_NM": "장사동",
+            "LI_NM": null,
+            "LNBR_NO": "24-66",
+            "LC_LO": 128.5248858,
+            "LC_LA": 38.20812092
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 184,
+        "fields": {
+            "ID": "KCMPLPO22N000000184",
+            "POI_NM": "엽기적인그녀촬영지",
+            "CTPRVN_NM": "부산광역시",
+            "SIGNGU_NM": "사하구",
+            "LEGALDONG_NM": "하단동",
+            "LI_NM": null,
+            "LNBR_NO": "1207-1",
+            "LC_LO": 128.9444387,
+            "LC_LA": 35.10481231
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 185,
+        "fields": {
+            "ID": "KCMPLPO22N000000185",
+            "POI_NM": "전우치촬영지",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "수원시 팔달구",
+            "LEGALDONG_NM": "남창동",
+            "LI_NM": null,
+            "LNBR_NO": "45079",
+            "LC_LO": 127.0135305,
+            "LC_LA": 37.28190898
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 186,
+        "fields": {
+            "ID": "KCMPLPO22N000000186",
+            "POI_NM": "서동요테마파크",
+            "CTPRVN_NM": "충청남도",
+            "SIGNGU_NM": "부여군",
+            "LEGALDONG_NM": "충화면",
+            "LI_NM": "가화리",
+            "LNBR_NO": "270",
+            "LC_LO": 126.8237348,
+            "LC_LA": 36.14482638
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 187,
+        "fields": {
+            "ID": "KCMPLPO22N000000187",
+            "POI_NM": "어린왕자촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "고흥군",
+            "LEGALDONG_NM": "금산면",
+            "LI_NM": "신전리",
+            "LNBR_NO": "881-5",
+            "LC_LO": 127.0896598,
+            "LC_LA": 34.46211282
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 188,
+        "fields": {
+            "ID": "KCMPLPO22N000000188",
+            "POI_NM": "가을로촬영지",
+            "CTPRVN_NM": "전라남도",
+            "SIGNGU_NM": "담양군",
+            "LEGALDONG_NM": "가사문학면",
+            "LI_NM": "지곡리",
+            "LNBR_NO": "산29",
+            "LC_LO": 127.0118082,
+            "LC_LA": 35.18328902
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 189,
+        "fields": {
+            "ID": "KCMPLPO22N000000189",
+            "POI_NM": "MBC문화동산",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "양주시",
+            "LEGALDONG_NM": "삼숭동",
+            "LI_NM": null,
+            "LNBR_NO": "207-12",
+            "LC_LO": 127.101519,
+            "LC_LA": 37.79151906
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 190,
+        "fields": {
+            "ID": "KCMPLPO22N000000190",
+            "POI_NM": "레드카펫촬영장",
+            "CTPRVN_NM": "경상북도",
+            "SIGNGU_NM": "의성군",
+            "LEGALDONG_NM": "금성면",
+            "LI_NM": "도경리",
+            "LNBR_NO": "845",
+            "LC_LO": 128.6428805,
+            "LC_LA": 36.24010412
+        }
+    },
+    {
+        "model": "movies.MovieLocation",
+        "pk": 191,
+        "fields": {
+            "ID": "KCMPLPO22N000000191",
+            "POI_NM": "장옥정세트장",
+            "CTPRVN_NM": "경기도",
+            "SIGNGU_NM": "고양시 일산동구",
+            "LEGALDONG_NM": "지영동",
+            "LI_NM": null,
+            "LNBR_NO": "213",
+            "LC_LO": 126.8281528,
+            "LC_LA": 37.72260696
+        }
+    }
+]
